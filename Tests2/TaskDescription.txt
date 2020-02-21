@@ -1,0 +1,9 @@
+Task Description:
+==================
+This is a e-commerce website: http://practice.automationtesting.in/ >> ite has been replaced with (https://demostore.x-cart.com/)
+
+1)you need to add three different books (from your choice) to shopping cart (edited) 
+2)Go to shopping cart ,make sure the 3 products got added to the table with correct product price
+3)Make sure the Subtotal and Total are correct
+4)Remove 1 product from cart ,make sure that there is only 2 products in table with correct name and price
+5)make sure subtotal and total values are now correct

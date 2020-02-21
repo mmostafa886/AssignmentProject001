@@ -16,5 +16,14 @@ class helper001 {
     .takeElementScreenshot(radio2)
 }
  ///////////////////////////////////////////////////////////////////
+
+ async  getCurrentURL()
+ {
+  await t
+  const getURL = ClientFunction(() => document.location.href);
+ const url = await getURL();
+  //console.log(url);
+  return url;
+ }
 }
 export default helper001;
